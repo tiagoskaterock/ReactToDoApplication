@@ -1,8 +1,8 @@
-# Calculator in React
+# To Do Application in React
 
 Download the .zip and unziped it or clone the project
 
-**cd ReactCalculator**
+**cd ReactToDoApplication**
 
 **npm start**
 
