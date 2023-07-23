@@ -10,4 +10,4 @@ Any feedback or suggestion will be appreciated. ^^
 
 The Class is here: [Learn React with this One Project](https://www.youtube.com/watch?v=Rh3tobg7hEo)
 
-![To Do Application](public/todo/1.png)
+![To Do Application](public/todo/1.gif)
