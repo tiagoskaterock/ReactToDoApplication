@@ -19,6 +19,7 @@ export function NewTodoForm({onSubmit}) {
         <div className="form-row">
             <label htmlFor="item">New Item</label>
             <input 
+                autoComplete="off"
                 value={newItem} 
                 onChange={e => setNewItem(e.target.value)} 
                 type="text" 
