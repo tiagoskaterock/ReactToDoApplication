@@ -1,13 +1,27 @@
-# To Do Application in React
+<h1 align="center">React Todo Application</h1>
 
-Download the .zip and unziped it or clone the project
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  </a>
+</p>
 
-**cd ReactToDoApplication**
+<p align="center">Download the .zip and unziped it or clone the project</p>
 
-**npm start**
+<p align="center">cd ReactToDoApplication</p>
 
-Any feedback or suggestion will be appreciated. ^^
+<p align="center">npm start</p>
 
-The Class is here: [Learn React with this One Project](https://www.youtube.com/watch?v=Rh3tobg7hEo)
+<p align="center">Any feedback or suggestion will be appreciated. ^^</p>
 
-![To Do Application](public/todo/2.gif)
+<p align="center"></p>
+
+<p align="center">
+    The Class is here:
+    <a href="https://www.youtube.com/watch?v=Rh3tobg7hEo">
+        Learn React with this One Project
+    </a>
+</p>
+
+<p align="center"><img src="public/todo/2.gif" alt="Todo App"></p>
+
